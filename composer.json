@@ -1,0 +1,21 @@
+{
+    "name": "zuhair/Ecstatic",
+    "description": "A lightweight MVC framework for Hack",
+    "require": {
+        "hhvm/xhp": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zuhair Naqvi",
+            "email": "hi.zuhair@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ecstatic\\Routing\\": "Routing/",
+            "Ecstatic\\Controller\\": "Controller"
+        }
+    }    
+}
