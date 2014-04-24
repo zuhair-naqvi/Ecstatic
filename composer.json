@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-            "FriendsOfHack/Ecstatic":"src/FriendsOfHack/Ecstatic"
+            "FriendsOfHack\\Ecstatic\\":"src/"
         }
     }    
 }
