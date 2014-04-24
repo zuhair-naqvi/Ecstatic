@@ -1,6 +1,6 @@
 <?hh
 
-namespace Ecstatic\Routing;
+namespace FriendsOfHack\Ecstatic\Routing;
 
 class Route 
 {

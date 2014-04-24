@@ -1,8 +1,8 @@
 <?hh
 
-namespace Ecstatic\Routing;
+namespace FriendsOfHack\Ecstatic\Routing;
 
-use Ecstatic\Routing\Route as Route;
+use FriendsOfHack\Ecstatic\Routing\Route as Route;
 
 class Router {
 

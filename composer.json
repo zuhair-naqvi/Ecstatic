@@ -1,5 +1,5 @@
 {
-    "name": "zuhair/Ecstatic",
+    "name": "FriendsOfHack/Ecstatic",
     "description": "A lightweight MVC framework for Hack",
     "require": {
         "hhvm/xhp": "dev-master"
@@ -14,8 +14,8 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Ecstatic\\Routing\\": "Routing/",
-            "Ecstatic\\Controller\\": "Controller"
+            "FriendsOfHack\\Ecstatic\\Routing\\": "Routing/",
+            "FriendsOfHack\\Ecstatic\\Controller\\": "Controller/"
         }
     }    
 }

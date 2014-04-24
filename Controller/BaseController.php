@@ -1,6 +1,6 @@
 <?hh
 
-namespace Esctatic\Controller;
+namespace FriendsOfHack\Esctatic\Controller;
 
 class BaseController 
 {
