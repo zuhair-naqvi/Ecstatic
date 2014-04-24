@@ -3,8 +3,6 @@
 namespace Ecstatic\Routing;
 
 require_once VENDOR . '/Ecstatic/Routing/Route.php';
-require_once APP . '/Wishes/Controller/UserController.php';
-require_once APP . '/Wishes/Controller/PostController.php';
 
 use Ecstatic\Routing\Route as Route;
 
