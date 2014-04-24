@@ -2,8 +2,6 @@
 
 namespace Esctatic\Controller;
 
-require_once APP.'/Wishes/View/stencil.xhp';
-
 class BaseController 
 {
   public function __construct()

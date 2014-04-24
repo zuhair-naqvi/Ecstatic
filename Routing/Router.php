@@ -2,8 +2,6 @@
 
 namespace Ecstatic\Routing;
 
-require_once VENDOR . '/Ecstatic/Routing/Route.php';
-
 use Ecstatic\Routing\Route as Route;
 
 class Router {
