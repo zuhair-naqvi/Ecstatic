@@ -1,5 +1,5 @@
 {
-    "name": "FriendsOfHack/Ecstatic",
+    "name": "friendsofhack/ecstatic",
     "description": "A lightweight MVC framework for Hack",
     "require": {
         "hhvm/xhp": "dev-master"
