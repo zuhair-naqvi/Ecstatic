@@ -14,8 +14,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-            "FriendsOfHack\\Ecstatic\\Routing\\": "Routing/",
-            "FriendsOfHack\\Ecstatic\\Controller\\": "Controller/"
+            "FriendsOfHack":"src/"
         }
     }    
 }
